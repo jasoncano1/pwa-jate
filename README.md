@@ -4,7 +4,7 @@
 ## Description
 A single-page text editor that meets PWA standards and operates offline. It can also be downloaded and used on both computers and mobile devices beyond the browser.
 
-![app_image](images/mockup.png)
+![app_image](/client/dist/src/images/mockup.png)
 
 ## Table of Contents
 - [Installation](#installation)
